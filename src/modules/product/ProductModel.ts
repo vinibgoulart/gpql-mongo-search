@@ -25,6 +25,7 @@ const ProductSchema = new Schema<ProductDocument>({
   description: {
     type: String,
     required: true,
+    index: true,
     description: "Product description",
   },
   barCode: {
