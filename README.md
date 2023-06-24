@@ -1,17 +1,17 @@
 # gpql-mongo-search
 
-Filter in a graphql query to search for generic values in mongodb
+A POC to how to create a filter in a graphql query to search for generic values in mongodb
 
 ### tags
-- mongoose
-- express
-- express-graphql
-- graphql
-- mongodb
-- @entria/graphql-mongo-helpers
-- search
-- agregatte
-- pipeline
+- [@entria/graphql-mongo-helpers](https://github.com/entria/graphql-mongo-helpers)
+- [mongoose](https://mongoosejs.com/)
+- [express](https://expressjs.com/pt-br/)
+- [express-graphql](https://graphql.org/graphql-js/running-an-express-graphql-server/)
+- [graphql](https://graphql.org/)
+- [mongodb](https://www.mongodb.com/)
+- [search](https://www.mongodb.com/docs/manual/text-search/)
+- [agregatte](https://www.mongodb.com/docs/manual/aggregation/)
+- [pipeline](https://www.mongodb.com/docs/manual/aggregation/)
 
 
 
