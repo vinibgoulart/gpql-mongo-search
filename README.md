@@ -1,6 +1,6 @@
 # gpql-mongo-search
 
-Search filter in a graphql query to search for generic values in mongodb
+Filter in a graphql query to search for generic values in mongodb
 
 ### tags
 - mongoose
