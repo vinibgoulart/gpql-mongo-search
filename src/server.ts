@@ -15,7 +15,7 @@ export const server = async () => {
   const server = createServer(app);
 
   server.listen(4000, () => {
-    console.log(`Server running in 5000`);
+    console.log(`Server running in 4000`);
     console.log(`See the GraphQL Server at /graphql`);
   });
 };
