@@ -1,4 +1,4 @@
-import { GraphQLList, GraphQLNonNull } from "graphql";
+import { GraphQLList } from "graphql";
 import { ProductType } from "./ProductType";
 import { ProductFilterInputType } from "./filter/ProductFilterInputType";
 import { productFilterMapping } from "./filter/ProductFilterMapping";

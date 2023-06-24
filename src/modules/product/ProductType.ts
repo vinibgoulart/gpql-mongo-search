@@ -4,8 +4,6 @@ import {
   GraphQLObjectType,
   GraphQLString,
 } from "graphql";
-import { registerTypeLoader } from "../node/typeRegister";
-import * as ProductLoader from "./ProductLoader";
 
 export const ProductType = new GraphQLObjectType({
   name: "ProductType",
